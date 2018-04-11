@@ -1,5 +1,4 @@
 # How-to-Predict-Stock-Prices-Easily-Demo
-How to Predict Stock Prices Easily
 
 ##Overview
 
